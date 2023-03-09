@@ -8,6 +8,7 @@
 ## Install setup
 1. After installing python and git perform the following command: 
 <br>
+
 ```git clone https://github.com/Masterjx9/piratespirittrading-pdftoexcel.git```
 
 2. Then use `cd piratespirittrading-pdftoexcel` to change to the directory you just downloaded from github.
